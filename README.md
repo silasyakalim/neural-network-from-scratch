@@ -37,7 +37,6 @@ checking against numerical gradients, and a reusable `Solver` training loop.
 - `q2_two_layer_net.ipynb` — two-layer neural net trained end-to-end on CIFAR-10
 - `q3_features.ipynb` — HOG/color-histogram feature extraction feeding into the linear classifiers
 - `q4_fully_connected_nets.ipynb` — deep fully connected networks with dropout, batch norm, and layer norm, compared across optimizers
-- `gather_submission_files.ipynb` — Colab-only helper that packages the notebooks/code into the course submission zip/PDF
 
 ## Results
 
@@ -62,7 +61,6 @@ notebooks/
   q2_two_layer_net.ipynb
   q3_features.ipynb
   q4_fully_connected_nets.ipynb
-  gather_submission_files.ipynb
 docs/images/              # plots referenced by this README
 requirements.txt
 prepare_submission.sh     # packages notebooks + code into a submission zip (course tooling, do not edit)
