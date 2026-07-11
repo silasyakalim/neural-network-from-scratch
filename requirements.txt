@@ -1,0 +1,12 @@
+Cython
+tqdm
+h5py
+torch
+torchvision
+tabulate
+scipy
+pandas
+imageio
+future
+matplotlib
+ipykernel

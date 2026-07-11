@@ -1,0 +1,37 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Jupyter / notebooks
+*.nbconvert.ipynb
+
+# Local environment / IDE files
+.vscode/
+.idea/
+.venv/
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Project outputs and artifacts
+*.zip
+*.pdf
+csdc618_dscd604/saved/*.npy
+csdc618_dscd604/saved/*.npz
+
+# Downloaded datasets (fetch via csdc618_dscd604/datasets/get_datasets.sh)
+csdc618_dscd604/datasets/cifar-10-batches-py/
+csdc618_dscd604/datasets/cifar-10-python.tar.gz
+csdc618_dscd604/datasets/imagenet_val_25.npz
