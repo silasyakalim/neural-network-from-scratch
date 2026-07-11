@@ -63,8 +63,6 @@ notebooks/
   q4_fully_connected_nets.ipynb
 docs/images/              # plots referenced by this README
 requirements.txt
-prepare_submission.sh     # packages notebooks + code into a submission zip (course tooling, do not edit)
-makepdf.py                # renders notebooks to PDF
 ```
 
 ## Getting started
