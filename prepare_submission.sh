@@ -16,10 +16,10 @@ CODE=(
 # that the generated pdf is
 # in order of questions
 NOTEBOOKS=(
-	"q1_softmax.ipynb"
-	"q2_two_layer_net.ipynb"
-	"q3_features.ipynb"
-	"q4_fully_connected_nets.ipynb"
+	"notebooks/q1_softmax.ipynb"
+	"notebooks/q2_two_layer_net.ipynb"
+	"notebooks/q3_features.ipynb"
+	"notebooks/q4_fully_connected_nets.ipynb"
 )
 
 FILES=( "${CODE[@]}" "${NOTEBOOKS[@]}" )
